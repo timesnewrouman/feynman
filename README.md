@@ -1,7 +1,4 @@
-# Yandex.Praktikum
-#### Жигайков Роман
-#### https://timesnewrouman.github.io/
-###### Спринт 2
+# Feynman
 ###### Версия 1.0
-
 Первый учебный проект: вёрстка HTML+CSS.
+#### Демо https://timesnewrouman.github.io/feynman
